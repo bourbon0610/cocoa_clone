@@ -4,12 +4,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  /* padding: 5px 3px; */
-  margin: 5px 3px;
+  padding: 5px 3px;
+  /* margin: 5px 3px; */
   color: var(--color-gray);
   width: 100%;
   /* overflow: hidden; */
   box-sizing: border-box;
+  background-color: var(--color-main);
 }
 .status-bar__column {
   display: flex;

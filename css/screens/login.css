@@ -23,6 +23,7 @@
   margin: 0px 30px;
 }
 #login-form input {
+  color: var(--color-gray);
   padding: 10px 0px;
   border: none;
   font-size: 18px;
